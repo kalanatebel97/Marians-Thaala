@@ -655,11 +655,12 @@ form button.btn-primary:hover {
     1 - Testimonials
 ------------------------------------*/
 .testimonial-and-clients {
-  background: url(../images/marians1.jpg) center center/cover no-repeat #bbc3ee;
+  background: url(../images/marians331.jpg) center center/cover no-repeat #bbc3ee;
+  filter: brightness(73%);
 }
 
 .testimonials {
-  padding: 95px 0 85px;
+  padding: 256px 0 85px;
   color: #fff;
   /*border-bottom: 1px solid #26264b;*/
 }
@@ -948,4 +949,18 @@ span {
 }
 .pricesDiv {
   margin-left: 342px;
+}
+#txt1{
+color: #0e0520;
+  font-size: 22px;
+}
+#txt2{
+  color: #0e0520;
+  font-size: 24px;
+
+}
+#txt3{
+  color: #0e0520;
+  font-size: 24px;
+
 }
