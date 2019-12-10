@@ -384,9 +384,8 @@ form button.btn-primary:hover {
 }
 
 /*.featured-big {*/
-  /*position: absolute;*/
-  /*bottom: 0;*/
-  /*right: 0;*/
+  /*width: 100%*/
+
 /*}*/
 
 .featured-small {
@@ -962,5 +961,10 @@ color: #0e0520;
 #txt3{
   color: #0e0520;
   font-size: 24px;
+
+}
+.col-md-6.aos-init.aos-animate {
+
+  padding-left: 50px;
 
 }
