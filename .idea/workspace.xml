@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8615e87-ee1a-4680-a826-12b7c6c8eeed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thaala/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/Thaala/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thaala/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Thaala/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thaala/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thaala/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,31 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Thaala/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="176" column="75" lean-forward="true" selection-start-line="176" selection-start-column="75" selection-end-line="176" selection-end-column="75" />
+            <state relative-caret-position="46">
+              <caret line="447" column="30" lean-forward="true" selection-start-line="447" selection-start-column="30" selection-end-line="447" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thaala/assets/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-255" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Thaala/assets/css/lightgallery.min.css">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Thaala/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Thaala/assets/css/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-371">
+            <state relative-caret-position="374">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
@@ -51,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Thaala/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="385" selection-start-line="385" selection-end-line="389" />
+            <state relative-caret-position="182">
+              <caret line="948" lean-forward="true" selection-start-line="948" selection-end-line="948" />
             </state>
           </provider>
         </entry>
@@ -72,7 +62,6 @@
       <find>test-pagination</find>
       <find>test-pagination swiper-pagination-clickable swiper-pagination-bullets</find>
       <find>herotest-pagination swiper-pagination-clickable swiper-pagination-bullets</find>
-      <find>testimonial-and-clients</find>
       <find>testimonials</find>
       <find>txt1</find>
       <find>title text-center</find>
@@ -82,6 +71,7 @@
       <find>featured-big</find>
       <find>fea</find>
       <find>featured</find>
+      <find>testimonial-and-clients</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,8 +90,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -111,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,6 +113,12 @@
               <item name="Thaala" type="b2602c69:ProjectViewProjectNode" />
               <item name="Thaala" type="462c0819:PsiDirectoryNode" />
               <item name="Thaala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Thaala" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Thaala" type="462c0819:PsiDirectoryNode" />
+              <item name="Thaala" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Thaala" type="b2602c69:ProjectViewProjectNode" />
@@ -140,7 +137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,18 +170,20 @@
       <workItem from="1572928795275" duration="14910000" />
       <workItem from="1573039574737" duration="1216000" />
       <workItem from="1575857966669" duration="13493000" />
-      <workItem from="1575945078434" duration="5734000" />
+      <workItem from="1575945078434" duration="9120000" />
+      <workItem from="1575955430572" duration="735000" />
+      <workItem from="1575956364706" duration="878000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35353000" />
+    <option name="totallyTimeSpent" value="40352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12822208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1150033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -222,34 +220,37 @@
     <entry file="file://$PROJECT_DIR$/Thaala/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/Thaala/assets/css/lightgallery.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Thaala/assets/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Thaala/assets/css/lightgallery.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Thaala/assets/css/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-371">
+        <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Thaala/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="385" selection-start-line="385" selection-end-line="389" />
+        <state relative-caret-position="182">
+          <caret line="948" lean-forward="true" selection-start-line="948" selection-end-line="948" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Thaala/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="176" column="75" lean-forward="true" selection-start-line="176" selection-start-column="75" selection-end-line="176" selection-end-column="75" />
+        <state relative-caret-position="46">
+          <caret line="447" column="30" lean-forward="true" selection-start-line="447" selection-start-column="30" selection-end-line="447" selection-end-column="30" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thaala/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
