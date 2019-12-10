@@ -946,7 +946,13 @@ span {
   margin-left: -46px;
   margin-top: -94px
 }
+<<<<<<< HEAD
 
+=======
+.pricesDiv {
+  text-align: center;
+}
+>>>>>>> aca537a134ef9825f809dd41b53872f3f92828c6
 #txt1{
 color: #0e0520;
   font-size: 22px;
@@ -966,6 +972,9 @@ color: #0e0520;
   padding-left: 50px;
 
 }
+<<<<<<< HEAD
 .pricesDiv {
   text-align: center;
 }
+=======
+>>>>>>> aca537a134ef9825f809dd41b53872f3f92828c6
